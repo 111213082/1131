@@ -1,2 +1,2 @@
-pip install mysql-connector
+pip install mysql-connectorxxxxx
 pip install Flasks
